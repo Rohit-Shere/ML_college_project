@@ -1,0 +1,86 @@
+{
+    "Gender": [
+        "F",
+        "M"
+    ],
+    "Smoking": [
+        "No",
+        "Yes"
+    ],
+    "Hx Smoking": [
+        "No",
+        "Yes"
+    ],
+    "Hx Radiothreapy": [
+        "No",
+        "Yes"
+    ],
+    "Thyroid Function": [
+        "Euthyroid",
+        "Clinical Hyperthyroidism",
+        "Clinical Hypothyroidism",
+        "Subclinical Hyperthyroidism",
+        "Subclinical Hypothyroidism"
+    ],
+    "Physical Examination": [
+        "Single nodular goiter-left",
+        "Multinodular goiter",
+        "Single nodular goiter-right",
+        "Normal",
+        "Diffuse goiter"
+    ],
+    "Adenopathy": [
+        "No",
+        "Right",
+        "Extensive",
+        "Left",
+        "Bilateral",
+        "Posterior"
+    ],
+    "Pathology": [
+        "Micropapillary",
+        "Papillary",
+        "Follicular",
+        "Hurthel cell"
+    ],
+    "Focality": [
+        "Uni-Focal",
+        "Multi-Focal"
+    ],
+    "Risk": [
+        "Low",
+        "Intermediate",
+        "High"
+    ],
+    "T": [
+        "T1a",
+        "T1b",
+        "T2",
+        "T3a",
+        "T3b",
+        "T4a",
+        "T4b"
+    ],
+    "N": [
+        "N0",
+        "N1b",
+        "N1a"
+    ],
+    "M": [
+        "M0",
+        "M1"
+    ],
+    "Stage": [
+        "I",
+        "II",
+        "IVB",
+        "III",
+        "IVA"
+    ],
+    "Response": [
+        "Indeterminate",
+        "Excellent",
+        "Structural Incomplete",
+        "Biochemical Incomplete"
+    ]
+}
